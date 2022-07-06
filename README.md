@@ -15,5 +15,8 @@ To identify people, things:
 - In Video - Execute recognize_video.py
 
 
-Output:
+Sample Object detection outputs:
 
+![Screenshot (823)](https://user-images.githubusercontent.com/36513863/177620022-c9f1adf1-4eca-410a-9682-7d71254548de.png)
+
+![Screenshot (824)](https://user-images.githubusercontent.com/36513863/177620046-dacda334-9e30-47b9-946b-85f62b1b934e.png)
